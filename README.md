@@ -1,4 +1,5 @@
 🎛️ Advanced Hand Gesture & Voice-Controlled System for Multimedia Operations
+
 This project presents an AI-powered system interface that allows users to control multimedia operations such as volume adjustment, playback control, and system commands using a hybrid approach of hand gestures and voice commands. The solution is built using Python, integrating computer vision, speech recognition, and audio control libraries to deliver a hands-free and intuitive user experience.
 
 🚀 Features
@@ -91,6 +92,7 @@ Copy
 Edit
 gesture-voice-multimedia-control/
 │
+
 ├── main.py                  # Main runner
 ├── hand_gesture.py          # Handles hand tracking logic
 ├── voice_commands.py        # Handles speech input
@@ -99,6 +101,8 @@ gesture-voice-multimedia-control/
 ├── utils.py                 # Helper functions
 ├── requirements.txt
 └── README.md
+
+
 📽️ Demo
 (Include a short GIF/video link showing gesture + voice control in action)
 
